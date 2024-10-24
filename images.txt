@@ -7,3 +7,4 @@
 #api
 #binaryify/netease_cloud_music_api:latest
 mysql:5.7
+minio/minio
