@@ -8,4 +8,8 @@
 #binaryify/netease_cloud_music_api:latest
 #mysql:5.7
 #minio/minio
-openjdk:8-slim-buster
+#openjdk:8-slim-buster
+
+vaultwarden/server
+hanxi/xiaomusic
+neosmemo/memos:stable
