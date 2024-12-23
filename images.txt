@@ -10,6 +10,6 @@
 #minio/minio
 #openjdk:8-slim-buster
 
-docker.rainbond.cc/vaultwarden/server
-hanxi/xiaomusic
-neosmemo/memos:stable
+vaultwarden/server
+#hanxi/xiaomusic
+#neosmemo/memos:stable
