@@ -10,7 +10,7 @@
 #minio/minio
 #openjdk:8-slim-buster
 
-docker.rainbond.cc/vaultwarden/server
+#docker.rainbond.cc/vaultwarden/server
 #hanxi/xiaomusic
 #neosmemo/memos:stable
 #hslr/sun-panel
@@ -18,3 +18,4 @@ docker.rainbond.cc/vaultwarden/server
 #couchdb
 #sissbruecker/linkding
 #ddsderek/easyimage
+minio/minio
