@@ -18,4 +18,5 @@
 #couchdb
 #sissbruecker/linkding
 #ddsderek/easyimage
-minio/minio
+#minio/minio
+halcyonazure/lsky-pro-docker
