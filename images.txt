@@ -12,7 +12,7 @@
 
 #docker.rainbond.cc/vaultwarden/server
 #hanxi/xiaomusic
-neosmemo/memos:stable
+neosmemo/memos:0.22.5
 #hslr/sun-panel
 #couchdb
 #sissbruecker/linkding
