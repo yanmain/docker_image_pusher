@@ -12,11 +12,10 @@
 
 #docker.rainbond.cc/vaultwarden/server
 #hanxi/xiaomusic
-#neosmemo/memos:stable
+neosmemo/memos:stable
 #hslr/sun-panel
-#neosmemo/memos:stable
 #couchdb
 #sissbruecker/linkding
 #ddsderek/easyimage
 #minio/minio
-halcyonazure/lsky-pro-docker
+#halcyonazure/lsky-pro-docker
