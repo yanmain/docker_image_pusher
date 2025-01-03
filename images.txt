@@ -12,7 +12,10 @@
 
 #docker.rainbond.cc/vaultwarden/server
 #hanxi/xiaomusic
-neosmemo/memos:0.22.5
+
+#neosmemo/memos:stable 最新0.23.0 翻页多翻几次就无法加载更多，所以目前只用0.22.5
+#neosmemo/memos:0.22.5
+
 #hslr/sun-panel
 #couchdb
 #sissbruecker/linkding
