@@ -23,5 +23,5 @@
 #minio/minio
 #halcyonazure/lsky-pro-docker
 
-# https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+#https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 mcp/puppeteer
