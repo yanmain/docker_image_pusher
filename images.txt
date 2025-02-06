@@ -26,4 +26,5 @@
 #https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
 #mcp/puppeteer
 
-vinlic/deepseek-free-api
+#vinlic/deepseek-free-api
+justsong/one-api
