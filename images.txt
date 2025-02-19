@@ -27,4 +27,7 @@
 #mcp/puppeteer
 
 #vinlic/deepseek-free-api
-justsong/one-api
+#justsong/one-api
+
+# open-webui 
+ghcr.io/open-webui/open-webui:main
