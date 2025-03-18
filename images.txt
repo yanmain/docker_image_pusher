@@ -30,4 +30,6 @@
 #justsong/one-api
 
 # open-webui 
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+
+gitea/gitea:latest
